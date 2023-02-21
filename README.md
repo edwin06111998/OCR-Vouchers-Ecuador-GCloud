@@ -24,7 +24,7 @@
 
 Lector de recibos o vóuchers de las principales entidades bancarias del Ecuador. El sistema reconoce el tipo de recibo, valida campos específicos como el número de control, el valor del recibo, el destinatario, útil para validar pagos en diferentes sistemas.
 
-**Código válido para implementar en el servicio de AWS Lambda.**
+**Código válido para implementar en el servicio de Google Cloud Function.**
 
 <p align="center">
   <img src = "https://raw.githubusercontent.com/edwin06111998/reconocer_recibos_AWS/main/imagenes/recibo.png" width=500>
