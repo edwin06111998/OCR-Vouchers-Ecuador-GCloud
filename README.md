@@ -60,9 +60,11 @@ Este proyecto ha sido desarrollado únicamente por mí (Edwin Veloz).
 ## Proceso de construcción
 
 - Clona o descarga el repositorio
-- Crea una función lambda en AWS.
+- Crea una función en Google Cloud Functions.
+- Asígnale 512MB de memoria RAM, un tiempo de espera de 60 segundos, los demás campos por defecto.
 - Completa el archivo APIKey.json con los datos de tu servicio Cloud Vision de Google.
-- Sube el código como archivo comprimido a la función Lambda
+- Sube el código como archivo comprimido a la función de Google Cloud.
+- En la pestaña de "activador" podrás extraer la URL HTTPS para obtener respuesta de la función.
 - Ahora estarás listo para leer recibos.
 
 ## Contacto
