@@ -50,11 +50,11 @@ Estas son algunas de las características del lector de recibos:
 
 ## Retroalimentación
 
-Siéntete libre de comentarme tu experiencia utilizando este sistema, puedes escribir al siguiente correo: edwin06111998@gmail.com. Tus comentarios son importantes para seguir haciendo robusto este sistema.
+Siéntete libre de comentarme tu experiencia utilizando este sistema, puedes escribir al siguiente correo: edwin06111998@gmail.com.
 
 ## Contribuidores
 
-Este proyecto ha sido desarrollado únicamente por mí (Edwin Veloz).
+Este proyecto ha sido desarrollado por (Edwin Veloz).
 
 ## Proceso de construcción
 
