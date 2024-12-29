@@ -1,7 +1,5 @@
-<p align="center">
-    <img alt="Chatbot" title="Chatbot" src="https://github.com/edwin06111998/Imagenes/blob/main/Proceso%20Chatbot/Header%20Google.jpg">
-  </a>
-</p>
+![Lectura de recibos con Inteligencia Artificial](/images/cover.png)
+
 <h1 align="center">Lectura de recibos con Inteligencia Artificial</h1>
 
 <p align="center">
